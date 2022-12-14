@@ -1,0 +1,1 @@
+export const API_URL = 'https://6392dd4711ed187986a2f456.mockapi.io/datastore'
